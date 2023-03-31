@@ -1,42 +1,26 @@
-*{
-	margin: 0;
-	padding: 0;
-	
-}
-.navbar{
-
-border: none;
-background-color: black;
-color: #61122F;
-}
-body{
-	background-color: #61122F;
-	color: white;
-}
-.glyphicon{
-	font-size: 30px;
-	color:#61122F; 
+body {
+    color: #0c0c0c;
+    font-family: 'Oxygen', sans-serif;
 }
 
-.center{
-	width: 90%;
-	background-color: grey;
-
-}
-.container
-{
-	background-color: grey;
-}
-.text-center{
-	font-size: 30px;
+.navbar {
+    border: 0;
+    border-radius: 0;
 }
 
-h2{
-	text-align: center;
+.navbar-default .navbar-brand{
+    color: #4e4e54;
 }
-#myNavbar ul li a {
-	color: #61122F;
+
+h2 {
+    margin-top: 20px;
 }
-.navbar-brand{
-font-size: 30px;	
+
+section {
+    border: 1px solid #6f6e6e;
+    margin-top: 7%;
+    margin-bottom: 3%;
+    padding: 5%;
+    background-color: rgba(59, 53, 53, 0.7);
+    
 }
